@@ -1,0 +1,21 @@
+.list-group-item{
+  cursor: pointer;
+
+}
+
+.preguntaicon{
+  float: right;
+  align-items: center;
+}
+
+.fas.incorrect{
+  color: #da2d2d;
+  font-size: 18px;
+}
+
+.fas.correct{
+  color: #17a2b8;
+  font-size: 18px;
+}
+
+
